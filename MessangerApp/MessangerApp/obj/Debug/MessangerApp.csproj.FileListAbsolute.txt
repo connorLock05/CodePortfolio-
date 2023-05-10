@@ -1,0 +1,12 @@
+D:\User\C#\MessangerApp\MessangerApp\bin\Debug\MessangerApp.exe.config
+D:\User\C#\MessangerApp\MessangerApp\bin\Debug\MessangerApp.exe
+D:\User\C#\MessangerApp\MessangerApp\bin\Debug\MessangerApp.pdb
+D:\User\C#\MessangerApp\MessangerApp\obj\Debug\MessangerApp.csproj.AssemblyReference.cache
+D:\User\C#\MessangerApp\MessangerApp\obj\Debug\MessangerApp.csproj.SuggestedBindingRedirects.cache
+D:\User\C#\MessangerApp\MessangerApp\obj\Debug\MessangerApp.Connection.resources
+D:\User\C#\MessangerApp\MessangerApp\obj\Debug\MessangerApp.Messenger.resources
+D:\User\C#\MessangerApp\MessangerApp\obj\Debug\MessangerApp.Properties.Resources.resources
+D:\User\C#\MessangerApp\MessangerApp\obj\Debug\MessangerApp.csproj.GenerateResource.cache
+D:\User\C#\MessangerApp\MessangerApp\obj\Debug\MessangerApp.csproj.CoreCompileInputs.cache
+D:\User\C#\MessangerApp\MessangerApp\obj\Debug\MessangerApp.exe
+D:\User\C#\MessangerApp\MessangerApp\obj\Debug\MessangerApp.pdb

@@ -1,0 +1,15 @@
+D:\User\C#\MergeSortTesting\MergeSortTesting\bin\Debug\net6.0\MergeSortTesting.exe
+D:\User\C#\MergeSortTesting\MergeSortTesting\bin\Debug\net6.0\MergeSortTesting.deps.json
+D:\User\C#\MergeSortTesting\MergeSortTesting\bin\Debug\net6.0\MergeSortTesting.runtimeconfig.json
+D:\User\C#\MergeSortTesting\MergeSortTesting\bin\Debug\net6.0\MergeSortTesting.dll
+D:\User\C#\MergeSortTesting\MergeSortTesting\bin\Debug\net6.0\MergeSortTesting.pdb
+D:\User\C#\MergeSortTesting\MergeSortTesting\obj\Debug\net6.0\MergeSortTesting.csproj.AssemblyReference.cache
+D:\User\C#\MergeSortTesting\MergeSortTesting\obj\Debug\net6.0\MergeSortTesting.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\C#\MergeSortTesting\MergeSortTesting\obj\Debug\net6.0\MergeSortTesting.AssemblyInfoInputs.cache
+D:\User\C#\MergeSortTesting\MergeSortTesting\obj\Debug\net6.0\MergeSortTesting.AssemblyInfo.cs
+D:\User\C#\MergeSortTesting\MergeSortTesting\obj\Debug\net6.0\MergeSortTesting.csproj.CoreCompileInputs.cache
+D:\User\C#\MergeSortTesting\MergeSortTesting\obj\Debug\net6.0\MergeSortTesting.dll
+D:\User\C#\MergeSortTesting\MergeSortTesting\obj\Debug\net6.0\refint\MergeSortTesting.dll
+D:\User\C#\MergeSortTesting\MergeSortTesting\obj\Debug\net6.0\MergeSortTesting.pdb
+D:\User\C#\MergeSortTesting\MergeSortTesting\obj\Debug\net6.0\MergeSortTesting.genruntimeconfig.cache
+D:\User\C#\MergeSortTesting\MergeSortTesting\obj\Debug\net6.0\ref\MergeSortTesting.dll
