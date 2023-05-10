@@ -1,0 +1,77 @@
+C:\Users\monke\source\repos\PokerGameNEAProj\PokerGameNEAProj\bin\Debug\PokerGameNEAProj.exe.config
+C:\Users\monke\source\repos\PokerGameNEAProj\PokerGameNEAProj\bin\Debug\PokerGameNEAProj.exe
+C:\Users\monke\source\repos\PokerGameNEAProj\PokerGameNEAProj\bin\Debug\PokerGameNEAProj.pdb
+C:\Users\monke\source\repos\PokerGameNEAProj\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.csproj.AssemblyReference.cache
+C:\Users\monke\source\repos\PokerGameNEAProj\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.csproj.SuggestedBindingRedirects.cache
+C:\Users\monke\source\repos\PokerGameNEAProj\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.Connection.resources
+C:\Users\monke\source\repos\PokerGameNEAProj\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.HostAwait.resources
+C:\Users\monke\source\repos\PokerGameNEAProj\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.HostingForm.resources
+C:\Users\monke\source\repos\PokerGameNEAProj\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.LoginRegister.resources
+C:\Users\monke\source\repos\PokerGameNEAProj\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.PreGameForm.resources
+C:\Users\monke\source\repos\PokerGameNEAProj\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.Properties.Resources.resources
+C:\Users\monke\source\repos\PokerGameNEAProj\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.csproj.GenerateResource.cache
+C:\Users\monke\source\repos\PokerGameNEAProj\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.csproj.CoreCompileInputs.cache
+C:\Users\monke\source\repos\PokerGameNEAProj\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.exe
+C:\Users\monke\source\repos\PokerGameNEAProj\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.pdb
+C:\Users\monke\Downloads\OneDrive_2022-12-08\PokerGameNEAProj Newer\PokerGameNEAProj\bin\Debug\PokerGameNEAProj.exe.config
+C:\Users\monke\Downloads\OneDrive_2022-12-08\PokerGameNEAProj Newer\PokerGameNEAProj\bin\Debug\PokerGameNEAProj.exe
+C:\Users\monke\Downloads\OneDrive_2022-12-08\PokerGameNEAProj Newer\PokerGameNEAProj\bin\Debug\PokerGameNEAProj.pdb
+C:\Users\monke\Downloads\OneDrive_2022-12-08\PokerGameNEAProj Newer\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.csproj.AssemblyReference.cache
+C:\Users\monke\Downloads\OneDrive_2022-12-08\PokerGameNEAProj Newer\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.csproj.SuggestedBindingRedirects.cache
+C:\Users\monke\Downloads\OneDrive_2022-12-08\PokerGameNEAProj Newer\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.Connection.resources
+C:\Users\monke\Downloads\OneDrive_2022-12-08\PokerGameNEAProj Newer\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.GameTable.resources
+C:\Users\monke\Downloads\OneDrive_2022-12-08\PokerGameNEAProj Newer\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.HostingForm.resources
+C:\Users\monke\Downloads\OneDrive_2022-12-08\PokerGameNEAProj Newer\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.LoginRegister.resources
+C:\Users\monke\Downloads\OneDrive_2022-12-08\PokerGameNEAProj Newer\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.PreGameForm.resources
+C:\Users\monke\Downloads\OneDrive_2022-12-08\PokerGameNEAProj Newer\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.Properties.Resources.resources
+C:\Users\monke\Downloads\OneDrive_2022-12-08\PokerGameNEAProj Newer\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.csproj.GenerateResource.cache
+C:\Users\monke\Downloads\OneDrive_2022-12-08\PokerGameNEAProj Newer\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.csproj.CoreCompileInputs.cache
+C:\Users\monke\Downloads\OneDrive_2022-12-08\PokerGameNEAProj Newer\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.exe
+C:\Users\monke\Downloads\OneDrive_2022-12-08\PokerGameNEAProj Newer\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.pdb
+D:\Downloads\NEA\PokerGameNEAProj Newer\PokerGameNEAProj\bin\Debug\PokerGameNEAProj.exe.config
+D:\Downloads\NEA\PokerGameNEAProj Newer\PokerGameNEAProj\bin\Debug\PokerGameNEAProj.exe
+D:\Downloads\NEA\PokerGameNEAProj Newer\PokerGameNEAProj\bin\Debug\PokerGameNEAProj.pdb
+D:\Downloads\NEA\PokerGameNEAProj Newer\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.csproj.AssemblyReference.cache
+D:\Downloads\NEA\PokerGameNEAProj Newer\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\NEA\PokerGameNEAProj Newer\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.Connection.resources
+D:\Downloads\NEA\PokerGameNEAProj Newer\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.GameTable.resources
+D:\Downloads\NEA\PokerGameNEAProj Newer\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.HostingForm.resources
+D:\Downloads\NEA\PokerGameNEAProj Newer\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.LoginRegister.resources
+D:\Downloads\NEA\PokerGameNEAProj Newer\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.PreGameForm.resources
+D:\Downloads\NEA\PokerGameNEAProj Newer\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.Properties.Resources.resources
+D:\Downloads\NEA\PokerGameNEAProj Newer\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.csproj.GenerateResource.cache
+D:\Downloads\NEA\PokerGameNEAProj Newer\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.csproj.CoreCompileInputs.cache
+D:\Downloads\NEA\PokerGameNEAProj Newer\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.exe
+D:\Downloads\NEA\PokerGameNEAProj Newer\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.pdb
+C:\Users\monke\Downloads\NEA Up To Date\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.csproj.AssemblyReference.cache
+C:\Users\monke\Downloads\NEA Up To Date\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.csproj.SuggestedBindingRedirects.cache
+C:\Users\monke\Downloads\NEA Up To Date\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.Connection.resources
+C:\Users\monke\Downloads\NEA Up To Date\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.GameTable.resources
+C:\Users\monke\Downloads\NEA Up To Date\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.HostingForm.resources
+C:\Users\monke\Downloads\NEA Up To Date\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.LoginRegister.resources
+C:\Users\monke\Downloads\NEA Up To Date\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.PreGameForm.resources
+C:\Users\monke\Downloads\NEA Up To Date\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.Properties.Resources.resources
+C:\Users\monke\Downloads\NEA Up To Date\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.csproj.GenerateResource.cache
+C:\Users\monke\Downloads\NEA Up To Date\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.csproj.CoreCompileInputs.cache
+C:\Users\monke\Downloads\NEA Up To Date\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.exe
+C:\Users\monke\Downloads\NEA Up To Date\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.pdb
+C:\Users\monke\Downloads\NEA Up To Date\PokerGameNEAProj\bin\Debug\PokerGameNEAProj.exe.config
+C:\Users\monke\Downloads\NEA Up To Date\PokerGameNEAProj\bin\Debug\PokerGameNEAProj.exe
+C:\Users\monke\Downloads\NEA Up To Date\PokerGameNEAProj\bin\Debug\PokerGameNEAProj.pdb
+D:\Downloads\NEA\NEA Up To Date\PokerGameNEAProj\bin\Debug\PokerGameNEAProj.exe.config
+D:\Downloads\NEA\NEA Up To Date\PokerGameNEAProj\bin\Debug\PokerGameNEAProj.exe
+D:\Downloads\NEA\NEA Up To Date\PokerGameNEAProj\bin\Debug\PokerGameNEAProj.pdb
+D:\Downloads\NEA\NEA Up To Date\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.csproj.AssemblyReference.cache
+D:\Downloads\NEA\NEA Up To Date\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\NEA\NEA Up To Date\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.Connection.resources
+D:\Downloads\NEA\NEA Up To Date\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.GameTable.resources
+D:\Downloads\NEA\NEA Up To Date\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.HostingForm.resources
+D:\Downloads\NEA\NEA Up To Date\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.LoginRegister.resources
+D:\Downloads\NEA\NEA Up To Date\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.PreGameForm.resources
+D:\Downloads\NEA\NEA Up To Date\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.Properties.Resources.resources
+D:\Downloads\NEA\NEA Up To Date\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.csproj.GenerateResource.cache
+D:\Downloads\NEA\NEA Up To Date\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.csproj.CoreCompileInputs.cache
+D:\Downloads\NEA\NEA Up To Date\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.exe
+D:\Downloads\NEA\NEA Up To Date\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.pdb
+D:\Downloads\NEA\NEA Up To Date\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.Testing.resources
+D:\Downloads\NEA\NEA Up To Date\PokerGameNEAProj\obj\Debug\PokerGameNEAProj.GameHistory.resources
